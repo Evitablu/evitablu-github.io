@@ -5,3 +5,29 @@
 
 
 }
+
+body{
+
+  background-color:lavender !important;
+
+}
+
+.jumbotron{
+
+  background-color: white !important;
+
+}
+
+.navbar{
+
+
+  background-color: white !important;
+
+}
+
+#text{
+
+
+  color: black !important;
+
+}
